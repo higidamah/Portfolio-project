@@ -1,6 +1,6 @@
 :root {
-  --branding-color: yellowgreen;
-  --secondary-color: aquamarine;
+  --branding-color: #7c17a1;
+  --secondary-color: #f0e2f5;
   --default-font-family: "poppins", san-serif;
 }
 body {
@@ -13,7 +13,7 @@ h1 {
   font-size: 96px;
 }
 h2 {
-  font-size: 64px;
+  font-size: 56px;
   line-height: 1.5;
 }
 p {
